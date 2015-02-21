@@ -1,0 +1,9 @@
+{
+  "name": "httpsinfo",
+  "title": "HTTPSInfo",
+  "id": "jid1-9vQCZuypcco1ZA",
+  "description": "Shows information about HTTPS connections in the Awesome Bar.",
+  "author": "Benjamin Peterson",
+  "license": "MIT",
+  "version": "0.1"
+}
